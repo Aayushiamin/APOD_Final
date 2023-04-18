@@ -10,7 +10,6 @@ import sqlite3
 import argparse
 import image_lib
 import inspect
-import pafy
 from pathlib import Path
 
 
